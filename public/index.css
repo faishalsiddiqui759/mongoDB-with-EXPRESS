@@ -1,0 +1,25 @@
+body{
+    margin-left: 0%;
+    padding: 0%;
+}
+h2{
+    padding: 10px 10px;
+}
+.chat{
+    display: inline-block;
+    border-radius: 6%;
+    background-color: aquamarine;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+.message{
+    background-color: aqua;
+    padding: 2px 5px ;
+    border-radius: 10%;
+}
+.add{
+    background-color: darkturquoise;
+    border: 0.2px solid black;
+    border-radius: 2px;
+    margin-left: 20px;
+}
